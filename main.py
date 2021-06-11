@@ -24,3 +24,11 @@ elif (score < 0.6):
 
 else:
       print("Score Out of Range") 
+
+        
+#   Score                            Grade
+#   >= 0.9                             A
+#   >= 0.8 and < 0.9                   B
+#   >= 0.7 and < 0.8                   C
+#   >= 0.6 and < 0.7                   D
+#   < 0.6                              F
